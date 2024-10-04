@@ -1,0 +1,437 @@
+[
+    {
+        "device": "H1-1",
+        "handle": "('2d6b727e-c29e-4731-bcc0-1e70dab171f6', 2906259)",
+        "cost_estimate": 11.6,
+        "description": {
+            "experiment": "tomography",
+            "angle": 0.0,
+            "basis_prepare": "YZ",
+            "basis_measure": "X"
+        },
+        "counts": {
+            "(0,)": 1486,
+            "(1,)": 1514
+        }
+    },
+    {
+        "device": "H1-1",
+        "handle": "('5ac39580-a08b-49f9-a057-2941bd708c24', 2906448)",
+        "cost_estimate": 11.6,
+        "description": {
+            "experiment": "tomography",
+            "angle": 0.0,
+            "basis_prepare": "YZ",
+            "basis_measure": "Y"
+        },
+        "counts": {
+            "(0,)": 1515,
+            "(1,)": 1485
+        }
+    },
+    {
+        "device": "H1-1",
+        "handle": "('0ab839eb-028f-48af-9956-84bb351c73c7', 2906449)",
+        "cost_estimate": 11.0,
+        "description": {
+            "experiment": "tomography",
+            "angle": 0.0,
+            "basis_prepare": "YZ",
+            "basis_measure": "Z"
+        },
+        "counts": {
+            "(0,)": 2998,
+            "(1,)": 2
+        }
+    },
+    {
+        "device": "H1-1",
+        "handle": "('331f84fe-c52a-4ca0-91ed-27d1fcae7256', 2906450)",
+        "cost_estimate": 12.2,
+        "description": {
+            "experiment": "tomography",
+            "angle": 0.25,
+            "basis_prepare": "YZ",
+            "basis_measure": "Y"
+        },
+        "counts": {
+            "(0,)": 438,
+            "(1,)": 2562
+        }
+    },
+    {
+        "device": "H1-1",
+        "handle": "('8636dfca-40ec-4f09-809b-2272f0709a14', 2906623)",
+        "cost_estimate": 12.2,
+        "description": {
+            "experiment": "tomography",
+            "angle": 1.5,
+            "basis_prepare": "YZ",
+            "basis_measure": "Y"
+        },
+        "counts": {
+            "(0,)": 2992,
+            "(1,)": 8
+        }
+    },
+    {
+        "device": "H1-1",
+        "handle": "('f98cfefe-41e8-4077-ae01-439cf84360a5', 2906613)",
+        "cost_estimate": 11.6,
+        "description": {
+            "experiment": "tomography",
+            "angle": 1.75,
+            "basis_prepare": "YZ",
+            "basis_measure": "Z"
+        },
+        "counts": {
+            "(0,)": 2576,
+            "(1,)": 424
+        }
+    },
+    {
+        "device": "H1-1",
+        "handle": "('69e06e21-696f-4c03-a806-21edbeaefcc5', 2906611)",
+        "cost_estimate": 12.2,
+        "description": {
+            "experiment": "tomography",
+            "angle": 1.75,
+            "basis_prepare": "YZ",
+            "basis_measure": "Y"
+        },
+        "counts": {
+            "(0,)": 2557,
+            "(1,)": 443
+        }
+    },
+    {
+        "device": "H1-1",
+        "handle": "('40afebe2-13ac-4e33-96ab-a6b1774e52c1', 2906610)",
+        "cost_estimate": 12.2,
+        "description": {
+            "experiment": "tomography",
+            "angle": 1.75,
+            "basis_prepare": "YZ",
+            "basis_measure": "X"
+        },
+        "counts": {
+            "(0,)": 1541,
+            "(1,)": 1459
+        }
+    },
+    {
+        "device": "H1-1",
+        "handle": "('40735dae-61db-4303-9750-09b3ea9254d1', 2906607)",
+        "cost_estimate": 12.2,
+        "description": {
+            "experiment": "tomography",
+            "angle": 1.25,
+            "basis_prepare": "YZ",
+            "basis_measure": "Y"
+        },
+        "counts": {
+            "(0,)": 2554,
+            "(1,)": 446
+        }
+    },
+    {
+        "device": "H1-1",
+        "handle": "('8a32f93d-b940-4771-9148-7841e38322f0', 2906608)",
+        "cost_estimate": 11.6,
+        "description": {
+            "experiment": "tomography",
+            "angle": 1.5,
+            "basis_prepare": "YZ",
+            "basis_measure": "Z"
+        },
+        "counts": {
+            "(0,)": 1494,
+            "(1,)": 1506
+        }
+    },
+    {
+        "device": "H1-1",
+        "handle": "('e894880b-9206-4758-9583-fde0085bf241', 2906606)",
+        "cost_estimate": 11.6,
+        "description": {
+            "experiment": "tomography",
+            "angle": 1.25,
+            "basis_prepare": "YZ",
+            "basis_measure": "Z"
+        },
+        "counts": {
+            "(0,)": 432,
+            "(1,)": 2568
+        }
+    },
+    {
+        "device": "H1-1",
+        "handle": "('25470d82-4c09-48e8-a7c2-e776254a4a94', 2906603)",
+        "cost_estimate": 12.2,
+        "description": {
+            "experiment": "tomography",
+            "angle": 1.25,
+            "basis_prepare": "YZ",
+            "basis_measure": "X"
+        },
+        "counts": {
+            "(0,)": 1558,
+            "(1,)": 1442
+        }
+    },
+    {
+        "device": "H1-1",
+        "handle": "('8a2948d1-bb08-48af-a7c4-5f78563d56c2', 2906461)",
+        "cost_estimate": 11.6,
+        "description": {
+            "experiment": "tomography",
+            "angle": 1.0,
+            "basis_prepare": "YZ",
+            "basis_measure": "Z"
+        },
+        "counts": {
+            "(0,)": 8,
+            "(1,)": 2992
+        }
+    },
+    {
+        "device": "H1-1",
+        "handle": "('ec4beca4-52d3-4b04-8c7e-5c74fc954119', 2906460)",
+        "cost_estimate": 12.2,
+        "description": {
+            "experiment": "tomography",
+            "angle": 1.0,
+            "basis_prepare": "YZ",
+            "basis_measure": "Y"
+        },
+        "counts": {
+            "(0,)": 1457,
+            "(1,)": 1543
+        }
+    },
+    {
+        "device": "H1-1",
+        "handle": "('ae9ad8c2-2175-4dbf-85f3-1b25f4029d91', 2906458)",
+        "cost_estimate": 11.6,
+        "description": {
+            "experiment": "tomography",
+            "angle": 0.75,
+            "basis_prepare": "YZ",
+            "basis_measure": "Z"
+        },
+        "counts": {
+            "(0,)": 432,
+            "(1,)": 2568
+        }
+    },
+    {
+        "device": "H1-1",
+        "handle": "('81080343-fdcc-4e2c-b236-c81adb268b56', 2906457)",
+        "cost_estimate": 12.2,
+        "description": {
+            "experiment": "tomography",
+            "angle": 0.75,
+            "basis_prepare": "YZ",
+            "basis_measure": "Y"
+        },
+        "counts": {
+            "(0,)": 454,
+            "(1,)": 2546
+        }
+    },
+    {
+        "device": "H1-1",
+        "handle": "('7fadf64c-bf20-4e3e-8300-169242c0f1eb', 2906456)",
+        "cost_estimate": 12.2,
+        "description": {
+            "experiment": "tomography",
+            "angle": 0.75,
+            "basis_prepare": "YZ",
+            "basis_measure": "X"
+        },
+        "counts": {
+            "(0,)": 1477,
+            "(1,)": 1523
+        }
+    },
+    {
+        "device": "H1-1",
+        "handle": "('7d241191-2d1d-4881-aa2d-cc3e1fba12ad', 2906455)",
+        "cost_estimate": 11.6,
+        "description": {
+            "experiment": "tomography",
+            "angle": 0.5,
+            "basis_prepare": "YZ",
+            "basis_measure": "Z"
+        },
+        "counts": {
+            "(0,)": 1528,
+            "(1,)": 1472
+        }
+    },
+    {
+        "device": "H1-1",
+        "handle": "('8bb4a783-276c-4505-b57e-690aa69e710a', 2906454)",
+        "cost_estimate": 12.2,
+        "description": {
+            "experiment": "tomography",
+            "angle": 0.5,
+            "basis_prepare": "YZ",
+            "basis_measure": "Y"
+        },
+        "counts": {
+            "(0,)": 16,
+            "(1,)": 2984
+        }
+    },
+    {
+        "device": "H1-1",
+        "handle": "('d065f3ef-2339-497e-9d76-83f56e03a1b5', 2906453)",
+        "cost_estimate": 12.2,
+        "description": {
+            "experiment": "tomography",
+            "angle": 0.5,
+            "basis_prepare": "YZ",
+            "basis_measure": "X"
+        },
+        "counts": {
+            "(0,)": 1520,
+            "(1,)": 1480
+        }
+    },
+    {
+        "device": "H1-1",
+        "handle": "('9844d224-77e9-4ad7-9b8f-828d5cba3412', 2906452)",
+        "cost_estimate": 11.6,
+        "description": {
+            "experiment": "tomography",
+            "angle": 0.25,
+            "basis_prepare": "YZ",
+            "basis_measure": "Z"
+        },
+        "counts": {
+            "(0,)": 2535,
+            "(1,)": 465
+        }
+    },
+    {
+        "device": "H1-1",
+        "handle": "('76f2fc77-ce60-45b0-ad21-6903e6ad53ab', 2906451)",
+        "cost_estimate": 12.2,
+        "description": {
+            "experiment": "tomography",
+            "angle": 0.25,
+            "basis_prepare": "YZ",
+            "basis_measure": "X"
+        },
+        "counts": {
+            "(0,)": 1493,
+            "(1,)": 1507
+        }
+    },
+    {
+        "device": "H1-1",
+        "handle": "('331f84fe-c52a-4ca0-91ed-27d1fcae7256', 2906450)",
+        "cost_estimate": 12.2,
+        "description": {
+            "experiment": "tomography",
+            "angle": 0.25,
+            "basis_prepare": "YZ",
+            "basis_measure": "Y"
+        },
+        "counts": {
+            "(0,)": 438,
+            "(1,)": 2562
+        }
+    },
+    {
+        "device": "H1-1",
+        "handle": "('0ab839eb-028f-48af-9956-84bb351c73c7', 2906449)",
+        "cost_estimate": 11.0,
+        "description": {
+            "experiment": "tomography",
+            "angle": 0.0,
+            "basis_prepare": "YZ",
+            "basis_measure": "Z"
+        },
+        "counts": {
+            "(0,)": 2998,
+            "(1,)": 2
+        }
+    },
+    {
+        "device": "H1-1",
+        "handle": "('5ac39580-a08b-49f9-a057-2941bd708c24', 2906448)",
+        "cost_estimate": 11.6,
+        "description": {
+            "experiment": "tomography",
+            "angle": 0.0,
+            "basis_prepare": "YZ",
+            "basis_measure": "Y"
+        },
+        "counts": {
+            "(0,)": 1515,
+            "(1,)": 1485
+        }
+    },
+    {
+        "device": "H1-1",
+        "handle": "('2d6b727e-c29e-4731-bcc0-1e70dab171f6', 2906259)",
+        "cost_estimate": 11.6,
+        "description": {
+            "experiment": "tomography",
+            "angle": 0.0,
+            "basis_prepare": "YZ",
+            "basis_measure": "X"
+        },
+        "counts": {
+            "(0,)": 1486,
+            "(1,)": 1514
+        }
+    },
+    {
+        "device": "H1-1",
+        "handle": "('2d6b727e-c29e-4731-bcc0-1e70dab171f6', 2906259)",
+        "cost_estimate": 11.6,
+        "description": {
+            "experiment": "tomography",
+            "angle": 0.0,
+            "basis_prepare": "YZ",
+            "basis_measure": "X"
+        },
+        "counts": {
+            "(0,)": 1486,
+            "(1,)": 1514
+        }
+    },
+    {
+        "device": "H1-1",
+        "handle": "('0ff27363-788e-4b9f-8d09-014d61438452', 2906816)",
+        "cost_estimate": 12.2,
+        "description": {
+            "experiment": "tomography",
+            "angle": 1.5,
+            "basis_prepare": "YZ",
+            "basis_measure": "X"
+        },
+        "counts": {
+            "(0,)": 1497,
+            "(1,)": 1503
+        }
+    },
+    {
+        "device": "H1-1",
+        "handle": "('5a92006d-5862-48a0-b1df-e520d489d44d', 2906815)",
+        "cost_estimate": 12.2,
+        "description": {
+            "experiment": "tomography",
+            "angle": 1.0,
+            "basis_prepare": "YZ",
+            "basis_measure": "X"
+        },
+        "counts": {
+            "(0,)": 1470,
+            "(1,)": 1530
+        }
+    }
+]
